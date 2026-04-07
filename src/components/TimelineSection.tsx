@@ -1,8 +1,10 @@
 import { useInView } from "@/hooks/useInView";
 
 const events = [
+  { year: "2008", title: "U19 World Cup Champion", desc: "Won the ICC Under-19 Cricket World Cup as captain, announcing himself on the world stage." },
   { year: "2008", title: "International Debut", desc: "Made ODI debut against Sri Lanka at 19 years old." },
-  { year: "2011", title: "World Cup Glory", desc: "Part of India's ICC Cricket World Cup winning squad." },
+  { year: "2011", title: "ODI World Cup Winner", desc: "Won the ICC Cricket World Cup with India, ending a 28-year wait for the trophy." },
+  { year: "2013", title: "Champions Trophy Winner", desc: "Won the ICC Champions Trophy with India, cementing his place among the greats." },
   { year: "2013", title: "No. 1 ODI Batsman", desc: "Reached the top of ICC ODI batting rankings for the first time." },
   { year: "2014", title: "Test Captaincy", desc: "Appointed captain of the Indian Test cricket team." },
   { year: "2017", title: "ODI & Test Captain", desc: "Led India to the No. 1 ranking in both Tests and ODIs." },
