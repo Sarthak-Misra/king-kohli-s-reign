@@ -11,6 +11,7 @@ const events = [
   { year: "2018", title: "ICC Player of the Year", desc: "Won the prestigious Sir Garfield Sobers Trophy." },
   { year: "2023", title: "ODI World Cup Record", desc: "Broke Sachin's record for most ODI World Cup centuries." },
   { year: "2024", title: "T20 World Cup Champion", desc: "Lifted the T20 World Cup trophy with India." },
+  { year: "2025", title: "Champions Trophy Winner", desc: "Won the ICC Champions Trophy again, adding another ICC title to his illustrious career." },
 ];
 
 const TimelineSection = () => {
