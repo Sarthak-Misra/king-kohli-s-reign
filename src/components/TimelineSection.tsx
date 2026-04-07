@@ -8,10 +8,12 @@ const events = [
   { year: "2013", title: "No. 1 ODI Batsman", desc: "Reached the top of ICC ODI batting rankings for the first time." },
   { year: "2014", title: "Test Captaincy", desc: "Appointed captain of the Indian Test cricket team." },
   { year: "2017", title: "ODI & Test Captain", desc: "Led India to the No. 1 ranking in both Tests and ODIs." },
+  { year: "2018", title: "No. 1 in All Formats", desc: "Became the number one ranked batter in Tests, ODIs, and T20Is simultaneously." },
   { year: "2018", title: "ICC Player of the Year", desc: "Won the prestigious Sir Garfield Sobers Trophy." },
   { year: "2023", title: "ODI World Cup Record", desc: "Broke Sachin's record for most ODI World Cup centuries." },
   { year: "2024", title: "T20 World Cup Champion", desc: "Lifted the T20 World Cup trophy with India." },
   { year: "2025", title: "Champions Trophy Winner", desc: "Won the ICC Champions Trophy again, adding another ICC title to his illustrious career." },
+  { year: "2025", title: "RCB's First IPL Title", desc: "Led Royal Challengers Bengaluru to their maiden IPL trophy, fulfilling a long-awaited dream." },
 ];
 
 const TimelineSection = () => {
