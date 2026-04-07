@@ -5,10 +5,10 @@ import teamImg from "@/assets/kohli-team.jpg";
 import centuryImg from "@/assets/kohli-century.jpg";
 
 const images = [
-  { src: battingImg, alt: "Kohli playing a powerful shot", caption: "The Cover Drive King" },
-  { src: trophyImg, alt: "Kohli with trophy", caption: "World Cup Glory" },
-  { src: centuryImg, alt: "Kohli celebrating a century", caption: "Century Celebration" },
-  { src: teamImg, alt: "Kohli with teammates", caption: "Brotherhood on the Field" },
+  { src: battingImg, alt: "Kohli playing a powerful shot", caption: "T20 World Cup 2024" },
+  { src: trophyImg, alt: "Kohli with trophy", caption: "Champions Trophy 2025" },
+  { src: centuryImg, alt: "Kohli celebrating a century", caption: "RCB 1st IPL Trophy" },
+  { src: teamImg, alt: "Kohli with teammates", caption: "The Man, The Myth, The Legend" },
 ];
 
 const GallerySection = () => {
